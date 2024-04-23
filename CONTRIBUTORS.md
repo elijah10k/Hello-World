@@ -58,6 +58,7 @@
 - [drunkedMonkey](https://github.com/drunkedMonkey)
 - [DzunN86](https://github.com/DzunN86)
 - [Elijah Shackelford](https://github.com/eshack94)
+- [Elijah Tucker](https://github.com/elijah10k)
 - [Elton Glenvill Pinto](https://github.com/eltonpinto156)
 - [Emmanuel Ezenwigbo](https://github.com/SkyC0der)
 - [Erol Aliyev](https://github.com/erolaliyev)
